@@ -1,0 +1,16 @@
+#3D_Saline_Current.rea
+-3                      spatial dimension
+2                      number of fields
+#
+#
+#
+#========================================================
+#
+Box_1                    
+-250 -23 -23                  nel_1, nel_2, nel_3
+#-10 -2 -2                  nel_1, nel_2, nel_3
+-1. 14.  1.                   x0, x1, x2
+0. 1.  1.2                    y0, y1, y2
+0. 1.  1.                     z0, z1, z2
+W  ,W  ,W  ,W  ,W  ,W              (bc's) velocity 
+I  ,I  ,I  ,I  ,I  ,I              (bc's) temperature
