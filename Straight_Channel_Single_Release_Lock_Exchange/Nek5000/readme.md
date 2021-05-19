@@ -1,4 +1,4 @@
-Lock-Exchange Saline Gravity Current Model:
+Nek5000 Lock-Exchange Saline Gravity Current Model:
 ===========================================
 The case files for the Nek5000 simulations in the paper "Massively Parallel Lattice Boltzmann Method Models of Dilute Gravity Currents" are in the 'run/' folder.
 
