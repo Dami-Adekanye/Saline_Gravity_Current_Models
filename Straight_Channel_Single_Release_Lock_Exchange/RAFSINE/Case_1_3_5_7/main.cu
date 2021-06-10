@@ -85,7 +85,7 @@ int main(){
     {
 	for(int z=0; z<LatSizeZ; z++)
 	{
-        rand_min=-0.01*Lock, rand_max=0.01*Lock;
+        rand_min=-0.005*Lock, rand_max=0.005*Lock;
         random = ((float) rand()) / (float) RAND_MAX;
         diff = rand_max - rand_min;
         r = random * diff;
