@@ -17,7 +17,7 @@ The results are output in lattice units (LU) so depending on your intended appli
 Files are written to the directory specified at line 21 of SaveToVTK.hpp.
 
 
-Re-producing the Gravity Current Simulations Presented in "Massively Parallel Lattice Boltzmann Method Models of Dilute Gravity Currents":
+Re-producing the Gravity Current Simulations Presented in "GPU Accelerated Lattice Boltzmann Method Models of Dilute Gravity Currents":
 ==========================================================================================================================================
 As detailed in the paper, the computational domain for Cases ∈ {1, 3, 5, 7} have different dimensions and boundary conditions to Cases ∈ {2, 4, 6, 8}.
 
